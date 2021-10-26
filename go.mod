@@ -1,4 +1,4 @@
-module github.com/ElrondNetwork/Test02
+module github.com/ElrondNetwork/Test02-new-module
 
 go 1.13
 
